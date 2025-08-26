@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin: 20px auto ;
+    background-color: aliceblue;
+}
+#previewButton {
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+
+.resume-builder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-section,
+.right-section {
+    width:px;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: left;
+}
+
+.left-section input, textarea {
+    margin: 10px;
+    padding: 10px;
+}
+.right-section input, textarea {
+    margin: 10px;
+    padding: 10px;
+}
